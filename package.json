@@ -1,0 +1,10 @@
+{
+	"name": "escapesh",
+	"version": "0.0.0",
+	"exports": {
+		".": {
+			"types": "./src/index.d.ts",
+			"import": "./src/index.js"
+		}
+	}
+}
