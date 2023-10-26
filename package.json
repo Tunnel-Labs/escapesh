@@ -1,6 +1,7 @@
 {
 	"name": "escapesh",
-	"version": "0.0.0",
+	"type": "module",
+	"version": "0.0.2",
 	"exports": {
 		".": {
 			"types": "./src/index.d.ts",

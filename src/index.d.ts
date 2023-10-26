@@ -1,1 +1,1 @@
-export function escapesh(input: string): string;
+export default function escapesh(input: string): string;
